@@ -1,33 +1,5 @@
 {
-  "connectedUser": {
-    "id": 10,
-    "name": "Sponge Bob",
-    "username": "spongeBob",
-    "password": "spongePassword",
-    "profilePicture": "/Picture/corentin-profile-picture.jpg",
-    "friends": [],
-    "activities": [
-      8
-    ],
-    "request": [],
-    "invitedActivities": [],
-    "interests": [
-      {
-        "category": "entertainment",
-        "speciality": "movies",
-        "frequency": "Occasionally",
-        "level": "Intermediate"
-      }
-    ],
-    "location": "Torino",
-    "age": "23",
-    "activityModerationRequestTampon": -1,
-    "activityInviteFriendsTampon": {
-      "activityId": -1,
-      "fromPath": ""
-    },
-    "newActivityFromPathTampon": ""
-  },
+  "connectedUser": {},
   "users": [
     {
       "id": 0,
