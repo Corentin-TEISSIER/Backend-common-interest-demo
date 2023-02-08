@@ -1,0 +1,26 @@
+{
+  "name": "backend-common-interest-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.json",
+  "scripts": {
+    "start": "json-server --watch db.json --port 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Corentin-TEISSIER/Backend-common-interest-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Corentin-TEISSIER/Backend-common-interest-demo/issues"
+  },
+  "homepage": "https://github.com/Corentin-TEISSIER/Backend-common-interest-demo#readme",
+  "dependencies": {
+    "clone": "^2.1.2",
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  }
+}
